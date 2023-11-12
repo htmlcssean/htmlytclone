@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<hmtl>
+    <head>
+        <style>
+            .google{
+                width: 500px;
+                margin-left: 1000px;
+
+                margin-bottom:50px;
+                display: block;
+     
+            }
+            .search-bar{
+                font-size: 60px;
+                width: 1000px;
+                padding-right: 600px;
+                margin-top:0px;
+                
+                padding-top:10px;
+                padding-left:30px;
+                padding-bottom:10px;
+                border-radius: 50px;
+                border:none;
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+                margin-left: 400px;
+                
+                
+                
+            }
+
+        </style>
+    
+
+
+    </head>
+    <body>
+        <img class = "google" src = "thumbnails/google logo.png">
+        <input class = "search-bar" type = "text" placeholder="Search Google or type a URL">
+    </body>
+</hmtl>
