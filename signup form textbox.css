@@ -1,0 +1,65 @@
+.fname{
+    width:70px;
+    margin-left:10px;
+    border-radius: 4px;
+    outline: none;
+    padding-left: 8px;
+    padding-top: 7px;
+    padding-right: 12px;
+    padding-bottom: 5px;
+    border-width: 1px;
+    font-size:10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+    
+}
+
+.lname{
+    width:70px;
+    margin-left:10px;
+    border-radius: 4px;
+    outline: none;
+    padding-left: 8px;
+    padding-top: 7px;
+    padding-right: 12px;
+    padding-bottom: 5px;
+    border-width: 1px;
+    font-size:10px;
+    margin-left: 0px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+
+}
+.ename{
+    display: block;
+    margin-top:4px;
+    border-radius: 4px;
+    outline: none;
+    padding-left: 8px;
+    padding-top: 7px;
+    padding-right: 12px;
+    padding-bottom: 5px;
+    border-width: 1px;
+    width: 165px ;
+    font-size:10px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 6px ;
+}
+
+.button{
+    border: none;
+    background-color: rgb(71, 109, 235);
+    color:white;
+    width: 186px ;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    font-size: 10px ;
+    cursor: pointer;
+    
+}
+
+.button:hover{
+    background-color: rgb(79, 112, 220);
+
+}
