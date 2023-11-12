@@ -1,0 +1,72 @@
+.req{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+}
+
+.location-button{
+font-size:12px;    
+border: none;
+outline: none;
+background-color: rgba(219, 212, 212, 0.209);
+padding-top:7px;
+padding-left:10px;
+padding-right:110px;
+padding-bottom:8px;
+display: block;
+margin-bottom: 4px;
+
+
+
+
+}
+.destination-button{
+    font-size:12px;   
+    border: none;
+    outline: none;
+    background-color: rgba(219, 212, 212, 0.209);
+    padding-top:7px;
+    padding-left:10px;
+    padding-right:110px;
+    padding-bottom:8px;
+    display: block;
+    margin-bottom:25px;
+
+
+}
+
+.req-button{
+    display: block;
+    font-size: 8px;
+    font-family: Arial;
+    margin-top:0px;
+    border:none;
+    background-color: black;
+    padding-right:14px;
+    color:white;
+    padding-top:8px;
+    padding-left:14px;
+    padding-bottom:9px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+.sched-button{
+    padding-top:8px;
+    padding-left:14px;
+    padding-bottom:9px;
+    font-size: 9px;
+    font-family: Arial;
+    margin-top:0px;
+    border:none;
+    padding-right:14px;
+    
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+  
+
+}
+.sched-button:hover{
+    background-color: rgba(231, 227, 227, 0.59);
+    transition: background-color 1s;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.20);
+}
