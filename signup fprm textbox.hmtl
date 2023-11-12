@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="challenge.css">
+    </head>
+    <body>
+    <input class = "fname" type="tex" placeholder = "First name">
+    <input class = "lname" type = "text" placeholder = "Lastname">
+    <input class = "ename" type = "text" placeholder = "Email">
+    <button class = "button">Sign up</button>
+    </body>
+</html>
