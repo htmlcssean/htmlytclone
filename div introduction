@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<style>
+    .square{
+        width: 400px;
+        height: 400px;
+        background-color: red;
+
+    }
+
+</style>
+    </head>
+    <body>
+        <div class = "square"></div>
+
+
+    </body>
+</html>
