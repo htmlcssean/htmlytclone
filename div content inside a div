@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .contain{
+                width:200px;
+                height:80px;
+                border: solid;
+                border-color: rgba(0, 0, 0, 0.185);
+                display: inline-block;
+                border-width: 0.70px;
+                padding-left: 20px;
+            }
+        </style>
+    </head>
+    <body>
+       <div class = "contain">  <p> Satisfied with our service?</p>
+        <button>Yes</button>
+        <button>No</button> </div>
+    </body>
+</html>
