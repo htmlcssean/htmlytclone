@@ -1,0 +1,155 @@
+p {
+    font-family: Arial;
+    
+
+}
+
+
+.pnayeon{
+    width: 225px;
+    height: 225px;
+    margin-bottom: 0px;
+    
+
+}
+
+.namenayeon{
+    font-size:18px;
+    font-weight: 550;
+    margin-top: 9px;
+    margin-left: 9px;
+    margin-bottom: 5px;
+
+   
+}
+
+
+.mutual-sana{
+    width: 28px;
+    height: 28px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-left: 9px;
+    vertical-align: middle;
+    
+    
+
+}
+
+.tmnayeon{
+    font-size: 16px;
+    margin-top: 4px;
+    margin-left: 5px;
+    color: rgb(100, 100, 100);
+    vertical-align: middle;
+
+
+}
+
+.add-button{
+    margin-top: 0px;
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bnayeon{
+    width: 225px;
+    height: 360px;
+    
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+
+
+}
+
+.pfpnayeon{
+    margin-bottom: 0px;
+   
+
+}
+.bunny{
+    margin-top:0px ;
+   
+}
+
+.divsana{
+    
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0px;
+    
+    
+
+
+}
+.divmutsana{
+    
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0px;
+  
+}
+.add-div{
+    display: inline-block;
+    margin-left: 9px;
+    margin-top: 0px;
+}
+
+
+.row1{
+    
+    margin-bottom:0px;
+  }
+
+
